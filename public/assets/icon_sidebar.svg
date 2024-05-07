@@ -1,0 +1,13 @@
+<svg width="16.000000" height="16.000000" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip584_253">
+			<rect id="icon / sidebar / active / 1. overview" width="16.000000" height="16.000000" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<g clip-path="url(#clip584_253)">
+		<path id="Vector" d="M15.52 8.94L8.54 8.94L13.19 13.58C13.36 13.76 13.66 13.78 13.84 13.6C14.98 12.53 15.76 11.09 15.99 9.46C16.03 9.18 15.8 8.94 15.52 8.94ZM15.05 7.03C14.81 3.52 12 0.71 8.49 0.47C8.22 0.45 8 0.67 8 0.94L8 7.52L14.58 7.52C14.85 7.52 15.07 7.3 15.05 7.03ZM6.58 8.94L6.58 1.96C6.58 1.68 6.34 1.45 6.06 1.48C2.55 1.98 -0.13 5.04 0 8.71C0.13 12.48 3.37 15.57 7.14 15.52C8.63 15.51 10 15.03 11.12 14.23C11.35 14.06 11.37 13.72 11.17 13.52L6.58 8.94Z" fill="#DDE2FF" fill-opacity="1.000000" fill-rule="nonzero"/>
+	</g>
+</svg>
